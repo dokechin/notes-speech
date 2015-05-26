@@ -1,0 +1,9 @@
+{
+  "name": "notes-speech",
+  "version": "0.0.0",
+  "description": "Reveal.js Notes Speech Plugin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dokechin"
+}
